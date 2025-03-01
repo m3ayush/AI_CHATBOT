@@ -9,7 +9,7 @@ This project is designed using `Groq`, `Streamlit`, and `Python`.
 
 ## 📦 Running the streamlit app
 
-1. Clone the repository:
+1. Run in powershell/command prompt:
    ```bash
    streamlit run demo.py
    
